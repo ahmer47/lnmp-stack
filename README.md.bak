@@ -23,6 +23,6 @@ bash ./installer.sh
 # Installed Packages
 The script will install, Configure & Start the services for Nginx, MySQL and PHP FPM with linux system services enabled.
 
-# Author
+#Author
 - Ahmer [ DevOps Engineer ]
 https://github.com/ahmer47/

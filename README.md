@@ -1,6 +1,13 @@
 # LNMP ( Linux Nginx MySQL PHP )
 This repository contains bash script for Easy Install LNMP Stack onto Ubuntu environment 20.04 and later
 
+## Supported OS
+- Ubuntu 20.04
+- Ubuntu 22.04
+- Debian 10
+- Debian 11
+
+
 # Stack 
 Setups
 - Nginx
